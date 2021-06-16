@@ -1,1 +1,1 @@
-This multi-class classification code was used to generate the predictive modelling results published in the paper Non-adaptive molecular evolution of seminal fluid proteins in <i>drosophila</i>, which has been accepted for publication in the journal Evolution.
+This multi-class classification code was used to generate the predictive modelling results published in the paper Non-adaptive molecular evolution of seminal fluid proteins in <i>Drosophila</i>, which has been accepted for publication in the journal Evolution.
